@@ -1,4 +1,4 @@
-# NVIDIA Language Changer, Created with the help of Chat GPT
+# NVIDIA Language Changer, created with the help of Chat GPT
 
 A simple tool to change the NVIDIA Control Panel language by modifying a registry key (`UserDefinedLocale`).
 
