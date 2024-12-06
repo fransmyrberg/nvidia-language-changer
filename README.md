@@ -17,11 +17,3 @@ A simple tool to change the NVIDIA Control Panel language by modifying a registr
 
 3. **Apply Changes**:  
    The tool will modify the registry and set the language for the NVIDIA Control Panel to English (United States).
-
-## Building the Executable
-
-If you wish to build the executable yourself, you can use `PyInstaller`:
-
-1. Install PyInstaller:  
-   ```bash
-   pip install pyinstaller
