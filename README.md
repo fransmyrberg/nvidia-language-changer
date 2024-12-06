@@ -3,8 +3,8 @@
 A simple tool to change the NVIDIA Control Panel language by modifying a registry key (`UserDefinedLocale`).
 
 ## Features
-- Change the NVIDIA Control Panel language to English (United States) or other supported languages by modifying the registry key.
-- Easy-to-use GUI for non-technical users.
+- Change the NVIDIA Control Panel language to English (United States) by modifying the registry key.
+- Easy-to-use GUI.
 - Works on Windows operating systems.
 
 ## How to Use
