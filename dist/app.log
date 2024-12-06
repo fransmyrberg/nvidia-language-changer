@@ -1,0 +1,3 @@
+2024-12-06 10:32:06,343 - INFO - Attempting to open registry key: SOFTWARE\NVIDIA Corporation\NVControlPanel2\Client
+2024-12-06 10:32:06,343 - INFO - Found existing value for 'UserDefinedLocale': 1033
+2024-12-06 10:32:06,343 - INFO - No action needed: 'UserDefinedLocale' already exists with value '0x409'.
