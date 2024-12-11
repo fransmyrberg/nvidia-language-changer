@@ -10,7 +10,7 @@ A simple tool to change the NVIDIA Control Panel language by modifying a registr
 ## How to Use
 
 1. **Download the Executable**:  
-   Go to the [Releases](https://github.com/username/nvidia-language-changer/releases) page and download the latest `nvidialangchange.exe`.
+   Go to the [Releases](https://github.com/fransmyrberg/nvidia-language-changer/releases/) page and download the latest `nvidialangchange.exe`.
 
 2. **Run the Executable**:  
    Right-click on `nvidialangchange.exe` and select **Run as administrator**.
